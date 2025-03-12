@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+
+langchain-openai
+langchain-core
+
+beautifulsoup4  # for web scraping
+langchain_community
+
+faiss-cpu  # for fast similarity search
+streamlit  # for web app
+
+langchain_core
+langchain_ollama
